@@ -39,16 +39,16 @@ export default {};
   display: flex;
   justify-content: center;
   .img-orange {
-    height: 600px;
+    height: 550px;
   }
   .contenitore-black {
     background-color: black;
-    height: 600px;
-    width: 550px;
+    height: 550px;
+    width: 450px;
     .contenitore-critiche {
       width: 400px;
       padding: 50px;
-      margin-left: 4rem;
+      margin-left: 2rem;
       margin-top: 3rem;
 
       .p-critiche {
@@ -65,6 +65,7 @@ export default {};
         color: white;
         font-size: 12px;
         margin-top: 2rem;
+        margin-right: 8px;
       }
       .p-testo {
         color: white;
