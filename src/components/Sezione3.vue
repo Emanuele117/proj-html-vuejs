@@ -21,7 +21,8 @@
           aut sapiente veniam ea enim reiciendis.
         </p>
         <p class="p-testo">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit..
+          Lorem ipsum dolor sit amet consectetur adipisicing elit Harum dolorem
+          aut sapiente .
         </p>
         <span class="bottone-critiche">READ FULL ARTICLE</span>
       </div>
