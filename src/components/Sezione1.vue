@@ -40,7 +40,7 @@
       </div>
       <!-- /make a reservation -->
       <div class="sushi1">
-        <img src="../assets/sushi-2.png" alt="sushi1" class="img-sushi" />
+        <img src="../assets/sushi-3.png" alt="sushi1" class="img-sushi" />
         <h2 class="titolo-sushi">FRESH PRODUCE EVERYDAY</h2>
         <p class="p-sushi">
           Lorem ipsum dolor sit amet consectetur adipisicing elitsit amet
@@ -80,6 +80,7 @@ export default {};
       font-size: 18px;
       font-weight: bold;
       margin-top: 2rem;
+      margin-bottom: 2rem;
     }
     .bottone-sushi {
       border: 1px solid lightgray;
