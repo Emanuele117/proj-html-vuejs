@@ -54,7 +54,7 @@ export default {};
     .menu {
       margin-left: 170px;
       margin-top: 2rem;
-      width: 410px;
+      width: 330px;
       .titolo-menu {
         font-weight: bold;
         color: white;

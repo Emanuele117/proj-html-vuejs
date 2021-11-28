@@ -12,6 +12,7 @@
     <p class="p-section">Latest news e promotions</p>
 
     <Sezione6 />
+    <Sezione7 />
   </div>
 </template>
 
@@ -22,6 +23,7 @@ import Sezione3 from "./Sezione3.vue";
 import Sezione4 from "./Sezione4.vue";
 import Sezione5 from "./Sezione5.vue";
 import Sezione6 from "./Sezione6.vue";
+import Sezione7 from "./Sezione7.vue";
 export default {
   components: {
     Sezione1,
@@ -30,6 +32,7 @@ export default {
     Sezione4,
     Sezione5,
     Sezione6,
+    Sezione7,
   },
 };
 </script>
