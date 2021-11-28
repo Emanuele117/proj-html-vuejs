@@ -3,11 +3,15 @@
     <Sezione1 />
     <Sezione2 />
 
-    <p class="p-critics">What critics are saying about us</p>
+    <p class="p-section">What critics are saying about us</p>
 
     <Sezione3 />
     <Sezione4 />
     <Sezione5 />
+
+    <p class="p-section">Latest news e promotions</p>
+
+    <Sezione6 />
   </div>
 </template>
 
@@ -17,6 +21,7 @@ import Sezione2 from "./Sezione2.vue";
 import Sezione3 from "./Sezione3.vue";
 import Sezione4 from "./Sezione4.vue";
 import Sezione5 from "./Sezione5.vue";
+import Sezione6 from "./Sezione6.vue";
 export default {
   components: {
     Sezione1,
@@ -24,12 +29,13 @@ export default {
     Sezione3,
     Sezione4,
     Sezione5,
+    Sezione6,
   },
 };
 </script>
 
 <style lang="scss">
-.p-critics {
+.p-section {
   text-align: center;
   font-size: 35px;
   margin-top: 4rem;
