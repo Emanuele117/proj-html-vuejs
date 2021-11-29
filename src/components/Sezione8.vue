@@ -120,6 +120,7 @@ export default {};
 <style lang="scss">
 .generale {
   height: 650px;
+  margin-top: 6rem;
 
   .foglio-menu {
     background-color: lightgray;
