@@ -14,6 +14,7 @@
     <Sezione6 />
     <Sezione7 />
     <Sezione8 />
+    <Sezione9 />
   </div>
 </template>
 
@@ -26,6 +27,7 @@ import Sezione5 from "./Sezione5.vue";
 import Sezione6 from "./Sezione6.vue";
 import Sezione7 from "./Sezione7.vue";
 import Sezione8 from "./Sezione8.vue";
+import Sezione9 from "./Sezione9.vue";
 export default {
   components: {
     Sezione1,
@@ -36,6 +38,7 @@ export default {
     Sezione6,
     Sezione7,
     Sezione8,
+    Sezione9,
   },
 };
 </script>
