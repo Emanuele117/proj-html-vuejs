@@ -41,10 +41,15 @@ export default {};
   .img-orange {
     height: 550px;
   }
+  .img-orange:hover {
+    height: 520px;
+    margin-top: 1rem;
+  }
   .contenitore-black {
     background-color: black;
     height: 550px;
     width: 450px;
+
     .contenitore-critiche {
       width: 400px;
       padding: 50px;
@@ -79,6 +84,11 @@ export default {};
         color: white;
         font-size: 10px;
         border: 1px solid white;
+      }
+      .bottone-critiche:hover {
+        color: black;
+        background-color: white;
+        font-weight: bold;
       }
     }
   }

@@ -73,6 +73,11 @@ export default {};
         font-size: 10px;
         border: 1px solid white;
       }
+      .bottone:hover {
+        background-color: white;
+        color: black;
+        font-weight: bold;
+      }
     }
   }
 }

@@ -25,5 +25,8 @@
 export default {};
 </script>
 
-<style>
+<style lang="scss">
+.contenitore-general {
+  margin-top: 10rem;
+}
 </style>

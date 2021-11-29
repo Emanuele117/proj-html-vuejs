@@ -7,7 +7,7 @@
     <a href="takeout">{{ takeout }}</a>
     <a href="bulletin">{{ bulletin }}</a>
     <a href="reservations">{{ reservation }}</a>
-    <a href=""></a>
+    <i class="fas fa-shopping-cart"></i>
   </div>
 </template>
 
@@ -37,9 +37,21 @@ export default {
     opacity: 70%;
     margin-right: 2.5rem;
   }
+  a:hover {
+    color: white;
+    opacity: 100%;
+  }
   .home {
     color: white;
     opacity: 100%;
+  }
+  .fa-shopping-cart {
+    color: white;
+    font-size: 15px;
+  }
+  .fa-shopping-cart:hover {
+    font-size: 18px;
+    cursor: pointer;
   }
 }
 </style>

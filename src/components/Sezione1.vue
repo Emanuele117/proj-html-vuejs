@@ -88,6 +88,10 @@ export default {};
       font-size: 10px;
       font-weight: 600;
     }
+    .bottone-sushi:hover {
+      border: 2px solid black;
+      font-weight: bold;
+    }
   }
 
   .testo {
@@ -115,7 +119,10 @@ export default {};
     .img-rolls {
       height: 500px;
       width: 400px;
-      filter: brightness(0.8);
+      filter: brightness(0.7);
+    }
+    .img-rolls:hover {
+      filter: none;
     }
     .p-rolls {
       position: absolute;

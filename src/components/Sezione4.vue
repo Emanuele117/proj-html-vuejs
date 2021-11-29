@@ -80,6 +80,11 @@ export default {};
       font-size: 10px;
       border: 1px solid white;
     }
+    .bottone-critiche:hover {
+      color: black;
+      background-color: white;
+      font-weight: bold;
+    }
   }
 
   .img-info {

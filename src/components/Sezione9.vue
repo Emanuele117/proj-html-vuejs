@@ -73,5 +73,10 @@ export default {};
     font-size: 10px;
     border: 1px solid white;
   }
+  .bottone:hover {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+  }
 }
 </style>
