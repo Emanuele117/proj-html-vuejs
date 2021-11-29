@@ -37,11 +37,11 @@
     <div class="foglio-menu2">
       <img src="../assets/misc22x.jpg" alt="" class="img-sfondo" />
       <div class="testo-totale">
-        <h1 class="titolo-menu2">HORS D'OEUVRES</h1>
+        <h1 class="titolo-menu2">MAIN COURSE</h1>
         <div class="testo-menu2">
           <div class="titolo-prezzo2 d-flex justify-content-between">
-            <h2 class="nome-sushi2">AHI SALMON NIGIRI</h2>
-            <p class="prezzo2">$48</p>
+            <h2 class="nome-sushi2">BRAISED ABALONE</h2>
+            <p class="prezzo2">$52</p>
           </div>
           <p class="p-menu2">
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -49,7 +49,7 @@
         </div>
         <div class="testo-menu2">
           <div class="titolo-prezzo2 d-flex justify-content-between">
-            <h2 class="nome-sushi2">UMI MASU SALAD</h2>
+            <h2 class="nome-sushi2">TWICE COOKED PORK</h2>
             <p class="prezzo2">$21</p>
           </div>
           <p class="p-menu2">
@@ -58,7 +58,7 @@
         </div>
         <div class="testo-menu2">
           <div class="titolo-prezzo2 d-flex justify-content-between">
-            <h2 class="nome-sushi2">TEMAKI WITH CRAB</h2>
+            <h2 class="nome-sushi2">KUNG PAO CHICKEN</h2>
             <p class="prezzo2">$32</p>
           </div>
           <p class="p-menu2">
@@ -67,8 +67,8 @@
         </div>
         <div class="testo-menu2">
           <div class="titolo-prezzo2 d-flex justify-content-between">
-            <h2 class="nome-sushi2">CALIFORNIA ROLLS</h2>
-            <p class="prezzo2">$22</p>
+            <h2 class="nome-sushi2">CHAR SIU E SUSHIS</h2>
+            <p class="prezzo2">$48</p>
           </div>
           <p class="p-menu2">
             Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -80,32 +80,32 @@
     <!-- secondo foglio menu -->
 
     <div class="foglio-menu">
-      <h1 class="titolo-menu">HORS D'OEUVRES</h1>
+      <h1 class="titolo-menu">DESSERTS</h1>
       <div class="testo-menu">
         <div class="titolo-prezzo d-flex justify-content-between">
-          <h2 class="nome-sushi">AHI SALMON NIGIRI</h2>
-          <p class="prezzo">$48</p>
+          <h2 class="nome-sushi">CHOCOLATE BALL CAKE</h2>
+          <p class="prezzo">$13</p>
         </div>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="testo-menu">
         <div class="titolo-prezzo d-flex justify-content-between">
-          <h2 class="nome-sushi">UMI MASU SALAD</h2>
-          <p class="prezzo">$21</p>
+          <h2 class="nome-sushi">LIME PIE WITH CRUST</h2>
+          <p class="prezzo">$14</p>
         </div>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="testo-menu">
         <div class="titolo-prezzo d-flex justify-content-between">
-          <h2 class="nome-sushi">TEMAKI WITH CRAB</h2>
-          <p class="prezzo">$32</p>
+          <h2 class="nome-sushi">RASBERRY PEAR CAKE</h2>
+          <p class="prezzo">$18</p>
         </div>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="testo-menu">
         <div class="titolo-prezzo d-flex justify-content-between">
-          <h2 class="nome-sushi">CALIFORNIA ROLLS</h2>
-          <p class="prezzo">$22</p>
+          <h2 class="nome-sushi">CAFE AU LAIT</h2>
+          <p class="prezzo">$6</p>
         </div>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
